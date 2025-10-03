@@ -17,6 +17,12 @@
 
 ---
 
+## Демонстрация работы
+
+https://github.com/user-attachments/assets/45ce0d14-61a0-42b2-8492-4cc1af8c7275
+
+---
+
 ## Технологии
 
 - **Frontend:** React, TypeScript, Vite, TailwindCSS, fabric.js, Yjs, y-websocket
