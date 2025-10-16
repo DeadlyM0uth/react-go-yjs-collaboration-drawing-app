@@ -1,4 +1,4 @@
-# Figma Clone Diploma Project
+# Figma Clone Project
 
 ## Описание
 
